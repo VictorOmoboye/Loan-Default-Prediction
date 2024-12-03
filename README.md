@@ -59,9 +59,21 @@ help the company:
 
   
 ## LIBRARIES
-
+- **NumPy:** It provides support for large, multi-dimensional arrays and matrices, along with mathematical functions to operate on these arrays.
+- **Pandas:** It offers data structures (like DataFrames) for handling and analyzing structured data, particularly for data manipulation and cleaning.
+- **Matplotlib.pyplot:** A plotting library used for creating static, interactive, and animated visualizations in Python.
+- **Seaborn:** Built on top of Matplotlib, Seaborn simplifies the creation of informative and attractive statistical graphics.
+  
 ## EXPECTED OUTCOME
+- **Accurate Default Predictions:** A machine learning model capable of predicting loan default risk with high precision and reliability.  
 
+- **Streamlined Loan Approvals:** Faster and more efficient loan approval processes through predictive insights and automation.  
+
+- **Reduced Financial Losses:** Early identification of high-risk borrowers to mitigate defaults and improve profitability.  
+
+- **Data-Driven Lending Strategies:** Insights into borrower behavior and risk factors to refine lending policies and tailor loan terms.  
+
+- **Competitive Advantage:** Enhanced decision-making and risk management, positioning LoanAnalytics Inc. as a leader in the lending industry.  
 
 
 
