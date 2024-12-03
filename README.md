@@ -75,8 +75,13 @@ help the company:
 - **Competitive Advantage:** Enhanced decision-making and risk management, positioning LoanAnalytics Inc. as a leader in the lending industry.  
 
 ### Exploratory Data Analysis (EDA)
+#### Numerical Data
 During the EDA process on numerical data, univariate and bivariate analyses revealed that the distributions of **Age**, **Income**, **Loan Amount**, **Credit Score**, **Months Employed**, **Interest Rate**, and **DTI Ratio** are uniform, with no outliers detected. The correlation analysis showed moderate relationships among the numerical features, with **Interest Rate** exhibiting a positive correlation of **0.13** with loan defaults, while **Age** displayed a negative correlation of **-0.17** with defaults.
 ![image](https://github.com/user-attachments/assets/a6521e03-5228-48bd-bf9a-9bcb982f99f4)
+
+#### Categorical Data
+During the EDA process on categorical data, univariate analysis revealed that the distributions of **Education** and **Marital Status** are uniform. Bivariate analysis of **Education** against loan defaults indicated that customers with a **high school education** have the highest likelihood of defaulting, followed by those with a **bachelor's degree**, **master's degree**, and then **PhD holders**, who exhibit the lowest default risk.
+![image](https://github.com/user-attachments/assets/3a67bdfa-c1c0-4f82-93a2-888052032af4)
 
 
 
