@@ -74,6 +74,9 @@ help the company:
 
 - **Competitive Advantage:** Enhanced decision-making and risk management, positioning LoanAnalytics Inc. as a leader in the lending industry.  
 
+### Exploratory Data Analysis (EDA)
+During the EDA process on numerical data, univariate and bivariate analyses revealed that the distributions of **Age**, **Income**, **Loan Amount**, **Credit Score**, **Months Employed**, **Interest Rate**, and **DTI Ratio** are uniform, with no outliers detected. The correlation analysis showed moderate relationships among the numerical features, with **Interest Rate** exhibiting a positive correlation of **0.13** with loan defaults, while **Age** displayed a negative correlation of **-0.17** with defaults.
+![image](https://github.com/user-attachments/assets/a6521e03-5228-48bd-bf9a-9bcb982f99f4)
 
 
 
