@@ -83,6 +83,11 @@ During the EDA process on numerical data, univariate and bivariate analyses reve
 During the EDA process on categorical data, univariate analysis revealed that the distributions of **Education** and **Marital Status** are uniform. Bivariate analysis of **Education** against loan defaults indicated that customers with a **high school education** have the highest likelihood of defaulting, followed by those with a **bachelor's degree**, **master's degree**, and then **PhD holders**, who exhibit the lowest default risk.
 ![image](https://github.com/user-attachments/assets/3a67bdfa-c1c0-4f82-93a2-888052032af4)
 
+### Data Preprocessing 
+During the data preprocessing phase, categorical variables were converted to numerical features using **Label Encoding**. The dataset was then split into **80% training** and **20% testing** using the `train_test_split()` function from the **sklearn.model_selection** library. Additionally, feature scaling was applied to ensure consistency in the dataset for model training.
+![image](https://github.com/user-attachments/assets/3f145897-1204-4a66-b11c-523aca004c2f)
+
+
 
 
 
