@@ -33,26 +33,26 @@ help the company:
   - Remove duplicate records and irrelevant columns that do not contribute to prediction.  
   - Identify and correct anomalies in the dataset to ensure data quality.  
 
-- **Exploratory Data Analysis (EDA):**  
+- **STEP 2: Exploratory Data Analysis (EDA):**  
   - Visualize feature distributions, relationships, and correlations using plots like histograms and heatmaps.  
   - Identify patterns, trends, and anomalies that may influence loan defaults.  
   - Formulate hypotheses to guide feature engineering and model selection.  
 
-- **Data Preprocessing:**  
+- **STEP 3: Data Preprocessing:**  
   - Scale or normalize numerical features and encode categorical variables for compatibility with machine learning models.  
   - Split the data into training, validation, and test sets to ensure robust evaluation.  
 
-- **Model Training:**  
+- **STEP 4: Model Training:**  
   - Select and train machine learning models such as Logistic Regression, Random Forest, or Gradient Boosting.  
   - Conduct hyperparameter tuning and k-fold cross-validation for model improvement.  
   - Experiment with multiple algorithms and compare their performance.  
 
-- **Model Evaluation:**  
+- **STEP 5: Model Evaluation:**  
   - Assess model performance using metrics like accuracy, precision, recall, F1-score, and ROC-AUC.  
   - Analyze performance across subsets (e.g., borrower income levels) and perform error analysis.  
   - Compare results to a baseline model to measure improvements.  
 
-- **Model Optimization:**  
+- **STEP 6: Model Optimization:**  
   - Fine-tune hyperparameters using techniques like Grid Search or Random Search.  
   - Apply regularization or ensemble methods to address overfitting and enhance performance.  
   - Refine feature selection and ensure the model generalizes well to unseen data.
