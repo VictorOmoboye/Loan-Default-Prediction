@@ -28,7 +28,7 @@ help the company:
 
 ## METHODOLOGY
 ### **Methodology**
-- **Data Cleaning:**  
+- **STEP 1: Data Cleaning:**  
   - Handle missing values using appropriate imputation techniques.  
   - Remove duplicate records and irrelevant columns that do not contribute to prediction.  
   - Identify and correct anomalies in the dataset to ensure data quality.  
