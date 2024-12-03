@@ -27,7 +27,6 @@ help the company:
 - **Foster Competitive Advantage:** Utilize advanced analytics to stay ahead in the lending industry by improving risk management and customer satisfaction.  
 
 ## METHODOLOGY
-### **Methodology**
 - **STEP 1: Data Cleaning:**  
   - Handle missing values using appropriate imputation techniques.  
   - Remove duplicate records and irrelevant columns that do not contribute to prediction.  
