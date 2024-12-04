@@ -97,10 +97,23 @@ Model evaluation was conducted to verify the performance and readiness of the tr
 
 ![image](https://github.com/user-attachments/assets/bc351999-0e0e-4f38-b08c-f1d0378c9d7b)
 
+## KEY INSIGHTS
+- **Data Quality:** The dataset was clean, with no missing values or duplicates, ensuring a strong foundation for analysis and modeling.  
 
+- **Numerical Feature Analysis:**  
+  - No outliers were detected in key numerical features such as Age, Income, Loan Amount, and Credit Score.  
+  - **Interest Rate** showed a moderate positive correlation of **0.13** with loan defaults, while **Age** exhibited a negative correlation of **-0.17**, indicating older borrowers are less likely to default.  
 
+- **Categorical Feature Analysis:**  
+  - Customers with a **high school education** had the highest likelihood of defaulting, followed by those with a **bachelor's degree**, **master's degree**, and **PhD holders**.  
 
+- **Model Training and Optimization:**  
+  - Initial Logistic Regression performance was unsatisfactory, but applying the **Min-Max Scaler** and exploring advanced models such as **RandomForestClassifier** significantly improved outcomes.  
 
+- **Model Evaluation:**  
+  - After fine-tuning, the model achieved a precision of **90%**, recall of **89%**, F1-score of **89%**, and accuracy of **81%**, indicating robust predictive performance.  
+
+- **Business Impact:** The project provides actionable insights to identify high-risk borrowers early, optimize lending strategies, and reduce financial losses while maintaining efficiency in loan approvals.  
 
 
 
