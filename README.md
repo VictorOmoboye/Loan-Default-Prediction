@@ -2,12 +2,12 @@
 ## Leveraging Advance Machine Learning to Predict Loan Default Risk for Smarter Lending Decisions
 ![image](https://github.com/user-attachments/assets/b923a5bf-5a92-483d-98e3-596c8b4b4b98)
 ### INTRODUCTION
-**LoanAnalytics Inc.**, a leading financial services provider, seeks to enhance its loan evaluation process by implementing an innovative loan default prediction model. With rising economic uncertainties and increasing default rates, traditional methods relying on static borrower data are no longer sufficient. This project aims to leverage machine learning to predict default risks more accurately, enabling faster loan approvals, improved risk management, and minimized financial losses. By integrating dynamic borrower data with advanced algorithms, LoanAnalytics Inc. can make smarter, data-driven lending decisions and maintain a competitive edge in the industry.
+**LoanFinance LTD.**, a leading financial services provider, seeks to enhance its loan evaluation process by implementing an innovative loan default prediction model. With rising economic uncertainties and increasing default rates, traditional methods relying on static borrower data are no longer sufficient. This project aims to leverage machine learning to predict default risks more accurately, enabling faster loan approvals, improved risk management, and minimized financial losses. By integrating dynamic borrower data with advanced algorithms, LoanAnalytics Inc. can make smarter, data-driven lending decisions and maintain a competitive edge in the industry.
 
 ![image](https://github.com/user-attachments/assets/e301c6c2-951b-46b2-a432-d044ccb23193)
 
 ### PROBLEM STATEMENT
-**LoanAnalytics Inc.** seeks to implement an automated loan default prediction model that can identify high-risk borrowers early in the loan approval process. The model should
+**LoanFinance LTD.** seeks to implement an automated loan default prediction model that can identify high-risk borrowers early in the loan approval process. The model should
 help the company:
 - **Predict Borrower Default Risk:** Develop a machine learning algorithm to accurately predict the likelihood of borrowers defaulting on loans, leveraging historical and dynamic borrower data.
   
@@ -128,7 +128,7 @@ Model evaluation was conducted to verify the performance and readiness of the tr
 - **Educate Decision Makers:** Provide training for stakeholders to interpret model insights effectively, fostering data-driven decision-making across teams. 
 
 ### CONCLUSION
-In conclusion, this project successfully developed a robust loan default prediction model for **LoanAnalytics Inc.**, leveraging machine learning to enhance decision-making and operational efficiency. Through data cleaning, exploratory analysis, and rigorous model optimization, the final model achieved strong performance metrics, including high precision, recall, and F1-score. These insights enable the company to identify high-risk borrowers early, optimize lending strategies, and reduce financial losses while maintaining efficient loan processing. By adopting these recommendations and continuously refining the model, **LoanAnalytics Inc.** can strengthen its position in the competitive lending industry and make smarter, data-driven decisions.
+In conclusion, this project successfully developed a robust loan default prediction model for **LoanFinance LTD.**, leveraging machine learning to enhance decision-making and operational efficiency. Through data cleaning, exploratory analysis, and rigorous model optimization, the final model achieved strong performance metrics, including high precision, recall, and F1-score. These insights enable the company to identify high-risk borrowers early, optimize lending strategies, and reduce financial losses while maintaining efficient loan processing. By adopting these recommendations and continuously refining the model, **LoanFinance LTD.** can strengthen its position in the competitive lending industry and make smarter, data-driven decisions.
 
 ### THANK YOU
 For more information, you can contact me
