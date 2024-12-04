@@ -87,6 +87,12 @@ During the EDA process on categorical data, univariate analysis revealed that th
 During the data preprocessing phase, categorical variables were converted to numerical features using **Label Encoding**. The dataset was then split into **80% training** and **20% testing** using the `train_test_split()` function from the **sklearn.model_selection** library. Additionally, feature scaling was applied to ensure consistency in the dataset for model training.
 ![image](https://github.com/user-attachments/assets/3f145897-1204-4a66-b11c-523aca004c2f)
 
+### Model Training
+During the model training phase, **Logistic Regression** was initially used to train the dataset, but it yielded unsatisfactory results after evaluation. To improve performance, the **Min-Max Scaler** was applied, as the dataset had a uniform distribution. Following this optimization, additional supervised machine learning models, including **DecisionTreeClassifier**, **SGDClassifier**, and **RandomForestClassifier**, were explored to enhance predictive accuracy and performance.
+
+![image](https://github.com/user-attachments/assets/90de9038-cacb-437c-91ed-6568b0399096)
+
+### Model Evaluation
 
 
 
