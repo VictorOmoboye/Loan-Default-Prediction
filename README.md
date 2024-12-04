@@ -93,6 +93,9 @@ During the model training phase, **Logistic Regression** was initially used to t
 ![image](https://github.com/user-attachments/assets/90de9038-cacb-437c-91ed-6568b0399096)
 
 ### Model Evaluation
+Model evaluation was conducted to verify the performance and readiness of the trained model for deployment. The results were satisfactory, achieving a **precision of 90%**, **recall of 89%**, **F1-score of 89%**, and **accuracy of 81%**. These metrics were attained after applying feature scaling and further optimizations to fine-tune the model for improved performance.
+
+![image](https://github.com/user-attachments/assets/bc351999-0e0e-4f38-b08c-f1d0378c9d7b)
 
 
 
