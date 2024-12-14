@@ -72,7 +72,8 @@ help the company:
 
 - **Reduced Financial Losses:** Early identification of high-risk borrowers to mitigate defaults and improve profitability.  
 
-- **Data-Driven Lending Strategies:** Insights into borrower behavior and risk factors to refine lending policies and tailor loan terms.  
+- **Data-Driven Lending Strategies:** Insights into borrower behavior and risk factors to refine lending policies and tailor loan terms.
+  
 
 - **Competitive Advantage:** Enhanced decision-making and risk management, positioning LoanAnalytics Inc. as a leader in the lending industry.  
 
