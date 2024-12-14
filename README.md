@@ -63,7 +63,8 @@ help the company:
 - **Pandas:** It offers data structures (like DataFrames) for handling and analyzing structured data, particularly for data manipulation and cleaning.
 - **Matplotlib.pyplot:** A plotting library used for creating static, interactive, and animated visualizations in Python.
 - **Seaborn:** Built on top of Matplotlib, Seaborn simplifies the creation of informative and attractive statistical graphics.
-  
+
+
 ### EXPECTED OUTCOME
 - **Accurate Default Predictions:** A machine learning model capable of predicting loan default risk with high precision and reliability.  
 
